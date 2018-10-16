@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Arera | mappa Italia</title>
+
+        <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="../condivisi/arera.css" type="text/css" media="all" />
+        <script src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
+        <script src="https://www.amcharts.com/lib/3/ammap.js"></script>
+
+        <!-- map file should be included after ammap.js -->
+        <script src="https://www.amcharts.com/lib/3/maps/js/italyLow.js"></script>
+        <script src="https://www.amcharts.com/lib/3/maps/js/italyHigh.js"></script>
+        <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+        <script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+        <script src="https://www.amcharts.com/lib/3/plugins/export/examples/export.config.default.js"></script>
+        <script src="https://www.amcharts.com/lib/3/plugins/dataloader/dataloader.min.js"></script>
+
+        <script src="../condivisi/export_menu.js"></script>
+        <script src="./map_1.js"></script>
+    </head>
+
+    <body>
+        <label for="tip_cliente">Tipologia cliente:</label>
+        <select id="tip_cliente" class="map_dropdown" name="tip_cliente">
+        </select>
+        <label for="mercato">Mercato:</label>
+        <select id="mercato" class="map_dropdown" name="mercato">
+        </select>
+        <label for="anno">Anno:</label>
+        <select id="anno" class="map_dropdown" name="anno">
+        </select>
+
+        <div id="map_1" style="width: 100%; background-color:#FFFFFF; height: 800px;"></div>
+    </body>
+
+</html>
+

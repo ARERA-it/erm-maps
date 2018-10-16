@@ -1,0 +1,601 @@
+id,regione,tip_cliente,anno,mercato,valore
+IT_65,Abruzzo,bt_dom,2012,magg_tutela,0.809
+IT-77,Basilicata,bt_dom,2012,magg_tutela,0.888
+IT-78,Calabria,bt_dom,2012,magg_tutela,0.875
+IT-72,Campania,bt_dom,2012,magg_tutela,0.903
+IT-45,Emilia-Romagna,bt_dom,2012,magg_tutela,0.837
+IT-36,Friuli-Venezia Giulia,bt_dom,2012,magg_tutela,0.869
+IT-62,Lazio,bt_dom,2012,magg_tutela,0.907
+IT-42,Liguria,bt_dom,2012,magg_tutela,0.864
+IT-25,Lombardia,bt_dom,2012,magg_tutela,0.856
+IT-57,Marche,bt_dom,2012,magg_tutela,0.875
+IT-67,Molise,bt_dom,2012,magg_tutela,0.856
+IT-21,Piemonte,bt_dom,2012,magg_tutela,0.821
+IT-75,Puglia,bt_dom,2012,magg_tutela,0.920
+IT-88,Sardegna,bt_dom,2012,magg_tutela,0.932
+IT-82,Sicilia,bt_dom,2012,magg_tutela,0.916
+IT-52,Toscana,bt_dom,2012,magg_tutela,0.892
+IT-32,Trentino-Alto Adige,bt_dom,2012,magg_tutela,0.841
+IT-55,Umbria,bt_dom,2012,magg_tutela,0.887
+IT-23,Valle d'Aosta,bt_dom,2012,magg_tutela,0.591
+IT-34,Veneto,bt_dom,2012,magg_tutela,0.879
+IT_65,Abruzzo,bt_dom,2012,mercato_lib,0.838
+IT-77,Basilicata,bt_dom,2012,mercato_lib,0.865
+IT-78,Calabria,bt_dom,2012,mercato_lib,0.808
+IT-72,Campania,bt_dom,2012,mercato_lib,0.813
+IT-45,Emilia-Romagna,bt_dom,2012,mercato_lib,0.869
+IT-36,Friuli-Venezia Giulia,bt_dom,2012,mercato_lib,0.677
+IT-62,Lazio,bt_dom,2012,mercato_lib,0.850
+IT-42,Liguria,bt_dom,2012,mercato_lib,0.836
+IT-25,Lombardia,bt_dom,2012,mercato_lib,0.832
+IT-57,Marche,bt_dom,2012,mercato_lib,0.874
+IT-67,Molise,bt_dom,2012,mercato_lib,0.933
+IT-21,Piemonte,bt_dom,2012,mercato_lib,0.817
+IT-75,Puglia,bt_dom,2012,mercato_lib,0.858
+IT-88,Sardegna,bt_dom,2012,mercato_lib,0.876
+IT-82,Sicilia,bt_dom,2012,mercato_lib,0.840
+IT-52,Toscana,bt_dom,2012,mercato_lib,0.880
+IT-32,Trentino-Alto Adige,bt_dom,2012,mercato_lib,0.790
+IT-55,Umbria,bt_dom,2012,mercato_lib,0.816
+IT-23,Valle d'Aosta,bt_dom,2012,mercato_lib,0.737
+IT-34,Veneto,bt_dom,2012,mercato_lib,0.856
+IT_65,Abruzzo,bt_dom,2013,magg_tutela,0.730
+IT-77,Basilicata,bt_dom,2013,magg_tutela,0.782
+IT-78,Calabria,bt_dom,2013,magg_tutela,0.757
+IT-72,Campania,bt_dom,2013,magg_tutela,0.818
+IT-45,Emilia-Romagna,bt_dom,2013,magg_tutela,0.756
+IT-36,Friuli-Venezia Giulia,bt_dom,2013,magg_tutela,0.821
+IT-62,Lazio,bt_dom,2013,magg_tutela,0.864
+IT-42,Liguria,bt_dom,2013,magg_tutela,0.731
+IT-25,Lombardia,bt_dom,2013,magg_tutela,0.783
+IT-57,Marche,bt_dom,2013,magg_tutela,0.787
+IT-67,Molise,bt_dom,2013,magg_tutela,0.763
+IT-21,Piemonte,bt_dom,2013,magg_tutela,0.735
+IT-75,Puglia,bt_dom,2013,magg_tutela,0.818
+IT-88,Sardegna,bt_dom,2013,magg_tutela,0.793
+IT-82,Sicilia,bt_dom,2013,magg_tutela,0.802
+IT-52,Toscana,bt_dom,2013,magg_tutela,0.803
+IT-32,Trentino-Alto Adige,bt_dom,2013,magg_tutela,0.840
+IT-55,Umbria,bt_dom,2013,magg_tutela,0.778
+IT-23,Valle d'Aosta,bt_dom,2013,magg_tutela,0.623
+IT-34,Veneto,bt_dom,2013,magg_tutela,0.792
+IT_65,Abruzzo,bt_dom,2013,mercato_lib,0.882
+IT-77,Basilicata,bt_dom,2013,mercato_lib,0.859
+IT-78,Calabria,bt_dom,2013,mercato_lib,0.825
+IT-72,Campania,bt_dom,2013,mercato_lib,0.853
+IT-45,Emilia-Romagna,bt_dom,2013,mercato_lib,0.900
+IT-36,Friuli-Venezia Giulia,bt_dom,2013,mercato_lib,0.808
+IT-62,Lazio,bt_dom,2013,mercato_lib,0.935
+IT-42,Liguria,bt_dom,2013,mercato_lib,0.852
+IT-25,Lombardia,bt_dom,2013,mercato_lib,0.876
+IT-57,Marche,bt_dom,2013,mercato_lib,0.925
+IT-67,Molise,bt_dom,2013,mercato_lib,0.901
+IT-21,Piemonte,bt_dom,2013,mercato_lib,0.838
+IT-75,Puglia,bt_dom,2013,mercato_lib,0.840
+IT-88,Sardegna,bt_dom,2013,mercato_lib,0.937
+IT-82,Sicilia,bt_dom,2013,mercato_lib,0.830
+IT-52,Toscana,bt_dom,2013,mercato_lib,0.895
+IT-32,Trentino-Alto Adige,bt_dom,2013,mercato_lib,0.819
+IT-55,Umbria,bt_dom,2013,mercato_lib,0.860
+IT-23,Valle d'Aosta,bt_dom,2013,mercato_lib,0.959
+IT-34,Veneto,bt_dom,2013,mercato_lib,0.880
+IT_65,Abruzzo,bt_dom,2014,magg_tutela,0.733
+IT-77,Basilicata,bt_dom,2014,magg_tutela,0.761
+IT-78,Calabria,bt_dom,2014,magg_tutela,0.719
+IT-72,Campania,bt_dom,2014,magg_tutela,0.766
+IT-45,Emilia-Romagna,bt_dom,2014,magg_tutela,0.772
+IT-36,Friuli-Venezia Giulia,bt_dom,2014,magg_tutela,0.722
+IT-62,Lazio,bt_dom,2014,magg_tutela,0.833
+IT-42,Liguria,bt_dom,2014,magg_tutela,0.764
+IT-25,Lombardia,bt_dom,2014,magg_tutela,0.782
+IT-57,Marche,bt_dom,2014,magg_tutela,0.774
+IT-67,Molise,bt_dom,2014,magg_tutela,0.741
+IT-21,Piemonte,bt_dom,2014,magg_tutela,0.713
+IT-75,Puglia,bt_dom,2014,magg_tutela,0.791
+IT-88,Sardegna,bt_dom,2014,magg_tutela,0.753
+IT-82,Sicilia,bt_dom,2014,magg_tutela,0.753
+IT-52,Toscana,bt_dom,2014,magg_tutela,0.797
+IT-32,Trentino-Alto Adige,bt_dom,2014,magg_tutela,0.740
+IT-55,Umbria,bt_dom,2014,magg_tutela,0.794
+IT-23,Valle d'Aosta,bt_dom,2014,magg_tutela,0.640
+IT-34,Veneto,bt_dom,2014,magg_tutela,0.803
+IT_65,Abruzzo,bt_dom,2014,mercato_lib,0.835
+IT-77,Basilicata,bt_dom,2014,mercato_lib,0.873
+IT-78,Calabria,bt_dom,2014,mercato_lib,0.807
+IT-72,Campania,bt_dom,2014,mercato_lib,0.810
+IT-45,Emilia-Romagna,bt_dom,2014,mercato_lib,0.902
+IT-36,Friuli-Venezia Giulia,bt_dom,2014,mercato_lib,0.920
+IT-62,Lazio,bt_dom,2014,mercato_lib,0.865
+IT-42,Liguria,bt_dom,2014,mercato_lib,0.872
+IT-25,Lombardia,bt_dom,2014,mercato_lib,0.873
+IT-57,Marche,bt_dom,2014,mercato_lib,0.912
+IT-67,Molise,bt_dom,2014,mercato_lib,0.825
+IT-21,Piemonte,bt_dom,2014,mercato_lib,0.792
+IT-75,Puglia,bt_dom,2014,mercato_lib,0.836
+IT-88,Sardegna,bt_dom,2014,mercato_lib,0.896
+IT-82,Sicilia,bt_dom,2014,mercato_lib,0.791
+IT-52,Toscana,bt_dom,2014,mercato_lib,0.902
+IT-32,Trentino-Alto Adige,bt_dom,2014,mercato_lib,0.794
+IT-55,Umbria,bt_dom,2014,mercato_lib,0.762
+IT-23,Valle d'Aosta,bt_dom,2014,mercato_lib,0.743
+IT-34,Veneto,bt_dom,2014,mercato_lib,0.910
+IT_65,Abruzzo,bt_dom,2015,magg_tutela,0.710
+IT-77,Basilicata,bt_dom,2015,magg_tutela,0.746
+IT-78,Calabria,bt_dom,2015,magg_tutela,0.708
+IT-72,Campania,bt_dom,2015,magg_tutela,0.719
+IT-45,Emilia-Romagna,bt_dom,2015,magg_tutela,0.725
+IT-36,Friuli-Venezia Giulia,bt_dom,2015,magg_tutela,0.705
+IT-62,Lazio,bt_dom,2015,magg_tutela,0.859
+IT-42,Liguria,bt_dom,2015,magg_tutela,0.693
+IT-25,Lombardia,bt_dom,2015,magg_tutela,0.773
+IT-57,Marche,bt_dom,2015,magg_tutela,0.762
+IT-67,Molise,bt_dom,2015,magg_tutela,0.743
+IT-21,Piemonte,bt_dom,2015,magg_tutela,0.713
+IT-75,Puglia,bt_dom,2015,magg_tutela,0.766
+IT-88,Sardegna,bt_dom,2015,magg_tutela,0.754
+IT-82,Sicilia,bt_dom,2015,magg_tutela,0.728
+IT-52,Toscana,bt_dom,2015,magg_tutela,0.774
+IT-32,Trentino-Alto Adige,bt_dom,2015,magg_tutela,0.809
+IT-55,Umbria,bt_dom,2015,magg_tutela,0.766
+IT-23,Valle d'Aosta,bt_dom,2015,magg_tutela,0.718
+IT-34,Veneto,bt_dom,2015,magg_tutela,0.783
+IT_65,Abruzzo,bt_dom,2015,mercato_lib,0.832
+IT-77,Basilicata,bt_dom,2015,mercato_lib,0.867
+IT-78,Calabria,bt_dom,2015,mercato_lib,0.796
+IT-72,Campania,bt_dom,2015,mercato_lib,0.785
+IT-45,Emilia-Romagna,bt_dom,2015,mercato_lib,0.893
+IT-36,Friuli-Venezia Giulia,bt_dom,2015,mercato_lib,0.917
+IT-62,Lazio,bt_dom,2015,mercato_lib,0.845
+IT-42,Liguria,bt_dom,2015,mercato_lib,0.840
+IT-25,Lombardia,bt_dom,2015,mercato_lib,0.850
+IT-57,Marche,bt_dom,2015,mercato_lib,0.856
+IT-67,Molise,bt_dom,2015,mercato_lib,0.822
+IT-21,Piemonte,bt_dom,2015,mercato_lib,0.799
+IT-75,Puglia,bt_dom,2015,mercato_lib,0.840
+IT-88,Sardegna,bt_dom,2015,mercato_lib,0.843
+IT-82,Sicilia,bt_dom,2015,mercato_lib,0.812
+IT-52,Toscana,bt_dom,2015,mercato_lib,0.879
+IT-32,Trentino-Alto Adige,bt_dom,2015,mercato_lib,0.806
+IT-55,Umbria,bt_dom,2015,mercato_lib,0.792
+IT-23,Valle d'Aosta,bt_dom,2015,mercato_lib,0.729
+IT-34,Veneto,bt_dom,2015,mercato_lib,0.870
+IT_65,Abruzzo,bt_dom,2016,magg_tutela,0.669
+IT-77,Basilicata,bt_dom,2016,magg_tutela,0.705
+IT-78,Calabria,bt_dom,2016,magg_tutela,0.698
+IT-72,Campania,bt_dom,2016,magg_tutela,0.710
+IT-45,Emilia-Romagna,bt_dom,2016,magg_tutela,0.762
+IT-36,Friuli-Venezia Giulia,bt_dom,2016,magg_tutela,0.693
+IT-62,Lazio,bt_dom,2016,magg_tutela,0.797
+IT-42,Liguria,bt_dom,2016,magg_tutela,0.677
+IT-25,Lombardia,bt_dom,2016,magg_tutela,0.761
+IT-57,Marche,bt_dom,2016,magg_tutela,0.752
+IT-67,Molise,bt_dom,2016,magg_tutela,0.662
+IT-21,Piemonte,bt_dom,2016,magg_tutela,0.728
+IT-75,Puglia,bt_dom,2016,magg_tutela,0.754
+IT-88,Sardegna,bt_dom,2016,magg_tutela,0.748
+IT-82,Sicilia,bt_dom,2016,magg_tutela,0.737
+IT-52,Toscana,bt_dom,2016,magg_tutela,0.759
+IT-32,Trentino-Alto Adige,bt_dom,2016,magg_tutela,0.855
+IT-55,Umbria,bt_dom,2016,magg_tutela,0.757
+IT-23,Valle d'Aosta,bt_dom,2016,magg_tutela,0.656
+IT-34,Veneto,bt_dom,2016,magg_tutela,0.788
+IT_65,Abruzzo,bt_dom,2016,mercato_lib,0.479
+IT-77,Basilicata,bt_dom,2016,mercato_lib,0.493
+IT-78,Calabria,bt_dom,2016,mercato_lib,0.433
+IT-72,Campania,bt_dom,2016,mercato_lib,0.415
+IT-45,Emilia-Romagna,bt_dom,2016,mercato_lib,0.647
+IT-36,Friuli-Venezia Giulia,bt_dom,2016,mercato_lib,0.618
+IT-62,Lazio,bt_dom,2016,mercato_lib,0.559
+IT-42,Liguria,bt_dom,2016,mercato_lib,0.444
+IT-25,Lombardia,bt_dom,2016,mercato_lib,0.479
+IT-57,Marche,bt_dom,2016,mercato_lib,0.501
+IT-67,Molise,bt_dom,2016,mercato_lib,0.514
+IT-21,Piemonte,bt_dom,2016,mercato_lib,0.517
+IT-75,Puglia,bt_dom,2016,mercato_lib,0.420
+IT-88,Sardegna,bt_dom,2016,mercato_lib,0.490
+IT-82,Sicilia,bt_dom,2016,mercato_lib,0.392
+IT-52,Toscana,bt_dom,2016,mercato_lib,0.432
+IT-32,Trentino-Alto Adige,bt_dom,2016,mercato_lib,0.712
+IT-55,Umbria,bt_dom,2016,mercato_lib,0.517
+IT-23,Valle d'Aosta,bt_dom,2016,mercato_lib,0.507
+IT-34,Veneto,bt_dom,2016,mercato_lib,0.618
+IT_65,Abruzzo,bt_dom,2017,magg_tutela,0.665
+IT-77,Basilicata,bt_dom,2017,magg_tutela,0.706
+IT-78,Calabria,bt_dom,2017,magg_tutela,0.674
+IT-72,Campania,bt_dom,2017,magg_tutela,0.701
+IT-45,Emilia-Romagna,bt_dom,2017,magg_tutela,0.774
+IT-36,Friuli-Venezia Giulia,bt_dom,2017,magg_tutela,0.767
+IT-62,Lazio,bt_dom,2017,magg_tutela,0.745
+IT-42,Liguria,bt_dom,2017,magg_tutela,0.700
+IT-25,Lombardia,bt_dom,2017,magg_tutela,0.774
+IT-57,Marche,bt_dom,2017,magg_tutela,0.745
+IT-67,Molise,bt_dom,2017,magg_tutela,0.641
+IT-21,Piemonte,bt_dom,2017,magg_tutela,0.715
+IT-75,Puglia,bt_dom,2017,magg_tutela,0.760
+IT-88,Sardegna,bt_dom,2017,magg_tutela,0.749
+IT-82,Sicilia,bt_dom,2017,magg_tutela,0.739
+IT-52,Toscana,bt_dom,2017,magg_tutela,0.785
+IT-32,Trentino-Alto Adige,bt_dom,2017,magg_tutela,0.809
+IT-55,Umbria,bt_dom,2017,magg_tutela,0.741
+IT-23,Valle d'Aosta,bt_dom,2017,magg_tutela,0.675
+IT-34,Veneto,bt_dom,2017,magg_tutela,0.792
+IT_65,Abruzzo,bt_dom,2017,mercato_lib,0.365
+IT-77,Basilicata,bt_dom,2017,mercato_lib,0.333
+IT-78,Calabria,bt_dom,2017,mercato_lib,0.303
+IT-72,Campania,bt_dom,2017,mercato_lib,0.318
+IT-45,Emilia-Romagna,bt_dom,2017,mercato_lib,0.618
+IT-36,Friuli-Venezia Giulia,bt_dom,2017,mercato_lib,0.513
+IT-62,Lazio,bt_dom,2017,mercato_lib,0.507
+IT-42,Liguria,bt_dom,2017,mercato_lib,0.300
+IT-25,Lombardia,bt_dom,2017,mercato_lib,0.375
+IT-57,Marche,bt_dom,2017,mercato_lib,0.438
+IT-67,Molise,bt_dom,2017,mercato_lib,0.337
+IT-21,Piemonte,bt_dom,2017,mercato_lib,0.377
+IT-75,Puglia,bt_dom,2017,mercato_lib,0.312
+IT-88,Sardegna,bt_dom,2017,mercato_lib,0.326
+IT-82,Sicilia,bt_dom,2017,mercato_lib,0.294
+IT-52,Toscana,bt_dom,2017,mercato_lib,0.351
+IT-32,Trentino-Alto Adige,bt_dom,2017,mercato_lib,0.835
+IT-55,Umbria,bt_dom,2017,mercato_lib,0.366
+IT-23,Valle d'Aosta,bt_dom,2017,mercato_lib,0.573
+IT-34,Veneto,bt_dom,2017,mercato_lib,0.525
+IT_65,Abruzzo,bt_altri,2012,magg_tutela,0.825
+IT-77,Basilicata,bt_altri,2012,magg_tutela,0.963
+IT-78,Calabria,bt_altri,2012,magg_tutela,
+IT-72,Campania,bt_altri,2012,magg_tutela,0.866
+IT-45,Emilia-Romagna,bt_altri,2012,magg_tutela,0.764
+IT-36,Friuli-Venezia Giulia,bt_altri,2012,magg_tutela,0.854
+IT-62,Lazio,bt_altri,2012,magg_tutela,0.839
+IT-42,Liguria,bt_altri,2012,magg_tutela,0.776
+IT-25,Lombardia,bt_altri,2012,magg_tutela,0.835
+IT-57,Marche,bt_altri,2012,magg_tutela,0.851
+IT-67,Molise,bt_altri,2012,magg_tutela,0.959
+IT-21,Piemonte,bt_altri,2012,magg_tutela,0.788
+IT-75,Puglia,bt_altri,2012,magg_tutela,0.896
+IT-88,Sardegna,bt_altri,2012,magg_tutela,0.878
+IT-82,Sicilia,bt_altri,2012,magg_tutela,0.932
+IT-52,Toscana,bt_altri,2012,magg_tutela,0.858
+IT-32,Trentino-Alto Adige,bt_altri,2012,magg_tutela,0.829
+IT-55,Umbria,bt_altri,2012,magg_tutela,0.837
+IT-23,Valle d'Aosta,bt_altri,2012,magg_tutela,0.541
+IT-34,Veneto,bt_altri,2012,magg_tutela,0.850
+IT_65,Abruzzo,bt_altri,2012,mercato_lib,0.762
+IT-77,Basilicata,bt_altri,2012,mercato_lib,0.810
+IT-78,Calabria,bt_altri,2012,mercato_lib,0.758
+IT-72,Campania,bt_altri,2012,mercato_lib,0.768
+IT-45,Emilia-Romagna,bt_altri,2012,mercato_lib,0.833
+IT-36,Friuli-Venezia Giulia,bt_altri,2012,mercato_lib,0.669
+IT-62,Lazio,bt_altri,2012,mercato_lib,0.790
+IT-42,Liguria,bt_altri,2012,mercato_lib,0.751
+IT-25,Lombardia,bt_altri,2012,mercato_lib,0.828
+IT-57,Marche,bt_altri,2012,mercato_lib,0.886
+IT-67,Molise,bt_altri,2012,mercato_lib,0.810
+IT-21,Piemonte,bt_altri,2012,mercato_lib,0.761
+IT-75,Puglia,bt_altri,2012,mercato_lib,0.806
+IT-88,Sardegna,bt_altri,2012,mercato_lib,0.804
+IT-82,Sicilia,bt_altri,2012,mercato_lib,0.793
+IT-52,Toscana,bt_altri,2012,mercato_lib,0.788
+IT-32,Trentino-Alto Adige,bt_altri,2012,mercato_lib,0.848
+IT-55,Umbria,bt_altri,2012,mercato_lib,0.768
+IT-23,Valle d'Aosta,bt_altri,2012,mercato_lib,0.424
+IT-34,Veneto,bt_altri,2012,mercato_lib,0.790
+IT_65,Abruzzo,bt_altri,2012,salvaguardia,0.638
+IT-77,Basilicata,bt_altri,2012,salvaguardia,0.246
+IT-78,Calabria,bt_altri,2012,salvaguardia,0.299
+IT-72,Campania,bt_altri,2012,salvaguardia,0.384
+IT-45,Emilia-Romagna,bt_altri,2012,salvaguardia,
+IT-36,Friuli-Venezia Giulia,bt_altri,2012,salvaguardia,
+IT-62,Lazio,bt_altri,2012,salvaguardia,0.861
+IT-42,Liguria,bt_altri,2012,salvaguardia,
+IT-25,Lombardia,bt_altri,2012,salvaguardia,
+IT-57,Marche,bt_altri,2012,salvaguardia,0.659
+IT-67,Molise,bt_altri,2012,salvaguardia,
+IT-21,Piemonte,bt_altri,2012,salvaguardia,
+IT-75,Puglia,bt_altri,2012,salvaguardia,0.962
+IT-88,Sardegna,bt_altri,2012,salvaguardia,0.349
+IT-82,Sicilia,bt_altri,2012,salvaguardia,0.341
+IT-52,Toscana,bt_altri,2012,salvaguardia,
+IT-32,Trentino-Alto Adige,bt_altri,2012,salvaguardia,
+IT-55,Umbria,bt_altri,2012,salvaguardia,0.615
+IT-23,Valle d'Aosta,bt_altri,2012,salvaguardia,
+IT-34,Veneto,bt_altri,2012,salvaguardia,
+IT_65,Abruzzo,bt_altri,2013,magg_tutela,0.684
+IT-77,Basilicata,bt_altri,2013,magg_tutela,0.761
+IT-78,Calabria,bt_altri,2013,magg_tutela,0.738
+IT-72,Campania,bt_altri,2013,magg_tutela,0.732
+IT-45,Emilia-Romagna,bt_altri,2013,magg_tutela,0.630
+IT-36,Friuli-Venezia Giulia,bt_altri,2013,magg_tutela,0.675
+IT-62,Lazio,bt_altri,2013,magg_tutela,0.735
+IT-42,Liguria,bt_altri,2013,magg_tutela,0.624
+IT-25,Lombardia,bt_altri,2013,magg_tutela,0.712
+IT-57,Marche,bt_altri,2013,magg_tutela,0.693
+IT-67,Molise,bt_altri,2013,magg_tutela,0.772
+IT-21,Piemonte,bt_altri,2013,magg_tutela,0.656
+IT-75,Puglia,bt_altri,2013,magg_tutela,0.753
+IT-88,Sardegna,bt_altri,2013,magg_tutela,0.749
+IT-82,Sicilia,bt_altri,2013,magg_tutela,0.751
+IT-52,Toscana,bt_altri,2013,magg_tutela,0.699
+IT-32,Trentino-Alto Adige,bt_altri,2013,magg_tutela,0.812
+IT-55,Umbria,bt_altri,2013,magg_tutela,0.701
+IT-23,Valle d'Aosta,bt_altri,2013,magg_tutela,0.530
+IT-34,Veneto,bt_altri,2013,magg_tutela,0.670
+IT_65,Abruzzo,bt_altri,2013,mercato_lib,0.852
+IT-77,Basilicata,bt_altri,2013,mercato_lib,0.886
+IT-78,Calabria,bt_altri,2013,mercato_lib,0.808
+IT-72,Campania,bt_altri,2013,mercato_lib,0.849
+IT-45,Emilia-Romagna,bt_altri,2013,mercato_lib,0.933
+IT-36,Friuli-Venezia Giulia,bt_altri,2013,mercato_lib,0.809
+IT-62,Lazio,bt_altri,2013,mercato_lib,0.856
+IT-42,Liguria,bt_altri,2013,mercato_lib,0.808
+IT-25,Lombardia,bt_altri,2013,mercato_lib,0.860
+IT-57,Marche,bt_altri,2013,mercato_lib,0.972
+IT-67,Molise,bt_altri,2013,mercato_lib,0.880
+IT-21,Piemonte,bt_altri,2013,mercato_lib,0.841
+IT-75,Puglia,bt_altri,2013,mercato_lib,0.884
+IT-88,Sardegna,bt_altri,2013,mercato_lib,0.840
+IT-82,Sicilia,bt_altri,2013,mercato_lib,0.857
+IT-52,Toscana,bt_altri,2013,mercato_lib,0.855
+IT-32,Trentino-Alto Adige,bt_altri,2013,mercato_lib,0.928
+IT-55,Umbria,bt_altri,2013,mercato_lib,0.783
+IT-23,Valle d'Aosta,bt_altri,2013,mercato_lib,0.673
+IT-34,Veneto,bt_altri,2013,mercato_lib,0.853
+IT_65,Abruzzo,bt_altri,2013,salvaguardia,
+IT-77,Basilicata,bt_altri,2013,salvaguardia,0.462
+IT-78,Calabria,bt_altri,2013,salvaguardia,0.282
+IT-72,Campania,bt_altri,2013,salvaguardia,0.336
+IT-45,Emilia-Romagna,bt_altri,2013,salvaguardia,
+IT-36,Friuli-Venezia Giulia,bt_altri,2013,salvaguardia,
+IT-62,Lazio,bt_altri,2013,salvaguardia,
+IT-42,Liguria,bt_altri,2013,salvaguardia,
+IT-25,Lombardia,bt_altri,2013,salvaguardia,
+IT-57,Marche,bt_altri,2013,salvaguardia,0.665
+IT-67,Molise,bt_altri,2013,salvaguardia,
+IT-21,Piemonte,bt_altri,2013,salvaguardia,
+IT-75,Puglia,bt_altri,2013,salvaguardia,
+IT-88,Sardegna,bt_altri,2013,salvaguardia,0.756
+IT-82,Sicilia,bt_altri,2013,salvaguardia,0.262
+IT-52,Toscana,bt_altri,2013,salvaguardia,
+IT-32,Trentino-Alto Adige,bt_altri,2013,salvaguardia,
+IT-55,Umbria,bt_altri,2013,salvaguardia,0.634
+IT-23,Valle d'Aosta,bt_altri,2013,salvaguardia,
+IT-34,Veneto,bt_altri,2013,salvaguardia,
+IT_65,Abruzzo,bt_altri,2014,magg_tutela,0.680
+IT-77,Basilicata,bt_altri,2014,magg_tutela,0.758
+IT-78,Calabria,bt_altri,2014,magg_tutela,0.706
+IT-72,Campania,bt_altri,2014,magg_tutela,0.723
+IT-45,Emilia-Romagna,bt_altri,2014,magg_tutela,0.644
+IT-36,Friuli-Venezia Giulia,bt_altri,2014,magg_tutela,0.583
+IT-62,Lazio,bt_altri,2014,magg_tutela,0.728
+IT-42,Liguria,bt_altri,2014,magg_tutela,0.639
+IT-25,Lombardia,bt_altri,2014,magg_tutela,0.689
+IT-57,Marche,bt_altri,2014,magg_tutela,0.689
+IT-67,Molise,bt_altri,2014,magg_tutela,0.737
+IT-21,Piemonte,bt_altri,2014,magg_tutela,0.600
+IT-75,Puglia,bt_altri,2014,magg_tutela,0.733
+IT-88,Sardegna,bt_altri,2014,magg_tutela,0.681
+IT-82,Sicilia,bt_altri,2014,magg_tutela,0.712
+IT-52,Toscana,bt_altri,2014,magg_tutela,0.687
+IT-32,Trentino-Alto Adige,bt_altri,2014,magg_tutela,0.793
+IT-55,Umbria,bt_altri,2014,magg_tutela,0.701
+IT-23,Valle d'Aosta,bt_altri,2014,magg_tutela,0.614
+IT-34,Veneto,bt_altri,2014,magg_tutela,0.674
+IT_65,Abruzzo,bt_altri,2014,mercato_lib,0.807
+IT-77,Basilicata,bt_altri,2014,mercato_lib,0.826
+IT-78,Calabria,bt_altri,2014,mercato_lib,0.792
+IT-72,Campania,bt_altri,2014,mercato_lib,0.820
+IT-45,Emilia-Romagna,bt_altri,2014,mercato_lib,0.919
+IT-36,Friuli-Venezia Giulia,bt_altri,2014,mercato_lib,0.985
+IT-62,Lazio,bt_altri,2014,mercato_lib,0.825
+IT-42,Liguria,bt_altri,2014,mercato_lib,0.784
+IT-25,Lombardia,bt_altri,2014,mercato_lib,0.819
+IT-57,Marche,bt_altri,2014,mercato_lib,0.956
+IT-67,Molise,bt_altri,2014,mercato_lib,0.835
+IT-21,Piemonte,bt_altri,2014,mercato_lib,0.799
+IT-75,Puglia,bt_altri,2014,mercato_lib,0.841
+IT-88,Sardegna,bt_altri,2014,mercato_lib,0.889
+IT-82,Sicilia,bt_altri,2014,mercato_lib,0.818
+IT-52,Toscana,bt_altri,2014,mercato_lib,0.833
+IT-32,Trentino-Alto Adige,bt_altri,2014,mercato_lib,0.945
+IT-55,Umbria,bt_altri,2014,mercato_lib,0.734
+IT-23,Valle d'Aosta,bt_altri,2014,mercato_lib,0.957
+IT-34,Veneto,bt_altri,2014,mercato_lib,0.840
+IT_65,Abruzzo,bt_altri,2014,salvaguardia,0.641
+IT-77,Basilicata,bt_altri,2014,salvaguardia,
+IT-78,Calabria,bt_altri,2014,salvaguardia,0.613
+IT-72,Campania,bt_altri,2014,salvaguardia,0.506
+IT-45,Emilia-Romagna,bt_altri,2014,salvaguardia,0.541
+IT-36,Friuli-Venezia Giulia,bt_altri,2014,salvaguardia,0.684
+IT-62,Lazio,bt_altri,2014,salvaguardia,
+IT-42,Liguria,bt_altri,2014,salvaguardia,
+IT-25,Lombardia,bt_altri,2014,salvaguardia,
+IT-57,Marche,bt_altri,2014,salvaguardia,
+IT-67,Molise,bt_altri,2014,salvaguardia,
+IT-21,Piemonte,bt_altri,2014,salvaguardia,
+IT-75,Puglia,bt_altri,2014,salvaguardia,
+IT-88,Sardegna,bt_altri,2014,salvaguardia,0.636
+IT-82,Sicilia,bt_altri,2014,salvaguardia,0.554
+IT-52,Toscana,bt_altri,2014,salvaguardia,
+IT-32,Trentino-Alto Adige,bt_altri,2014,salvaguardia,0.778
+IT-55,Umbria,bt_altri,2014,salvaguardia,0.978
+IT-23,Valle d'Aosta,bt_altri,2014,salvaguardia,
+IT-34,Veneto,bt_altri,2014,salvaguardia,0.439
+IT_65,Abruzzo,bt_altri,2015,magg_tutela,0.824
+IT-77,Basilicata,bt_altri,2015,magg_tutela,0.836
+IT-78,Calabria,bt_altri,2015,magg_tutela,0.820
+IT-72,Campania,bt_altri,2015,magg_tutela,0.785
+IT-45,Emilia-Romagna,bt_altri,2015,magg_tutela,0.885
+IT-36,Friuli-Venezia Giulia,bt_altri,2015,magg_tutela,0.983
+IT-62,Lazio,bt_altri,2015,magg_tutela,0.821
+IT-42,Liguria,bt_altri,2015,magg_tutela,0.760
+IT-25,Lombardia,bt_altri,2015,magg_tutela,0.809
+IT-57,Marche,bt_altri,2015,magg_tutela,0.880
+IT-67,Molise,bt_altri,2015,magg_tutela,0.852
+IT-21,Piemonte,bt_altri,2015,magg_tutela,0.792
+IT-75,Puglia,bt_altri,2015,magg_tutela,0.849
+IT-88,Sardegna,bt_altri,2015,magg_tutela,0.802
+IT-82,Sicilia,bt_altri,2015,magg_tutela,0.824
+IT-52,Toscana,bt_altri,2015,magg_tutela,0.823
+IT-32,Trentino-Alto Adige,bt_altri,2015,magg_tutela,0.866
+IT-55,Umbria,bt_altri,2015,magg_tutela,0.772
+IT-23,Valle d'Aosta,bt_altri,2015,magg_tutela,0.741
+IT-34,Veneto,bt_altri,2015,magg_tutela,0.829
+IT_65,Abruzzo,bt_altri,2015,mercato_lib,0.658
+IT-77,Basilicata,bt_altri,2015,mercato_lib,0.738
+IT-78,Calabria,bt_altri,2015,mercato_lib,0.704
+IT-72,Campania,bt_altri,2015,mercato_lib,0.671
+IT-45,Emilia-Romagna,bt_altri,2015,mercato_lib,0.675
+IT-36,Friuli-Venezia Giulia,bt_altri,2015,mercato_lib,0.598
+IT-62,Lazio,bt_altri,2015,mercato_lib,0.750
+IT-42,Liguria,bt_altri,2015,mercato_lib,0.556
+IT-25,Lombardia,bt_altri,2015,mercato_lib,0.677
+IT-57,Marche,bt_altri,2015,mercato_lib,0.675
+IT-67,Molise,bt_altri,2015,mercato_lib,0.723
+IT-21,Piemonte,bt_altri,2015,mercato_lib,0.621
+IT-75,Puglia,bt_altri,2015,mercato_lib,0.729
+IT-88,Sardegna,bt_altri,2015,mercato_lib,0.680
+IT-82,Sicilia,bt_altri,2015,mercato_lib,0.697
+IT-52,Toscana,bt_altri,2015,mercato_lib,0.668
+IT-32,Trentino-Alto Adige,bt_altri,2015,mercato_lib,0.813
+IT-55,Umbria,bt_altri,2015,mercato_lib,0.694
+IT-23,Valle d'Aosta,bt_altri,2015,mercato_lib,0.707
+IT-34,Veneto,bt_altri,2015,mercato_lib,0.641
+IT_65,Abruzzo,bt_altri,2015,salvaguardia,0.467
+IT-77,Basilicata,bt_altri,2015,salvaguardia,0.931
+IT-78,Calabria,bt_altri,2015,salvaguardia,0.560
+IT-72,Campania,bt_altri,2015,salvaguardia,0.540
+IT-45,Emilia-Romagna,bt_altri,2015,salvaguardia,0.615
+IT-36,Friuli-Venezia Giulia,bt_altri,2015,salvaguardia,0.583
+IT-62,Lazio,bt_altri,2015,salvaguardia,0.995
+IT-42,Liguria,bt_altri,2015,salvaguardia,0.936
+IT-25,Lombardia,bt_altri,2015,salvaguardia,
+IT-57,Marche,bt_altri,2015,salvaguardia,
+IT-67,Molise,bt_altri,2015,salvaguardia,
+IT-21,Piemonte,bt_altri,2015,salvaguardia,0.888
+IT-75,Puglia,bt_altri,2015,salvaguardia,
+IT-88,Sardegna,bt_altri,2015,salvaguardia,0.703
+IT-82,Sicilia,bt_altri,2015,salvaguardia,0.492
+IT-52,Toscana,bt_altri,2015,salvaguardia,0.939
+IT-32,Trentino-Alto Adige,bt_altri,2015,salvaguardia,
+IT-55,Umbria,bt_altri,2015,salvaguardia,
+IT-23,Valle d'Aosta,bt_altri,2015,salvaguardia,
+IT-34,Veneto,bt_altri,2015,salvaguardia,0.549
+IT_65,Abruzzo,bt_altri,2016,magg_tutela,0.568
+IT-77,Basilicata,bt_altri,2016,magg_tutela,0.545
+IT-78,Calabria,bt_altri,2016,magg_tutela,0.461
+IT-72,Campania,bt_altri,2016,magg_tutela,0.512
+IT-45,Emilia-Romagna,bt_altri,2016,magg_tutela,0.721
+IT-36,Friuli-Venezia Giulia,bt_altri,2016,magg_tutela,0.825
+IT-62,Lazio,bt_altri,2016,magg_tutela,0.650
+IT-42,Liguria,bt_altri,2016,magg_tutela,0.577
+IT-25,Lombardia,bt_altri,2016,magg_tutela,0.663
+IT-57,Marche,bt_altri,2016,magg_tutela,0.626
+IT-67,Molise,bt_altri,2016,magg_tutela,0.617
+IT-21,Piemonte,bt_altri,2016,magg_tutela,0.676
+IT-75,Puglia,bt_altri,2016,magg_tutela,0.575
+IT-88,Sardegna,bt_altri,2016,magg_tutela,0.535
+IT-82,Sicilia,bt_altri,2016,magg_tutela,0.530
+IT-52,Toscana,bt_altri,2016,magg_tutela,0.536
+IT-32,Trentino-Alto Adige,bt_altri,2016,magg_tutela,0.805
+IT-55,Umbria,bt_altri,2016,magg_tutela,0.646
+IT-23,Valle d'Aosta,bt_altri,2016,magg_tutela,0.760
+IT-34,Veneto,bt_altri,2016,magg_tutela,0.674
+IT_65,Abruzzo,bt_altri,2016,mercato_lib,0.648
+IT-77,Basilicata,bt_altri,2016,mercato_lib,0.732
+IT-78,Calabria,bt_altri,2016,mercato_lib,0.701
+IT-72,Campania,bt_altri,2016,mercato_lib,0.607
+IT-45,Emilia-Romagna,bt_altri,2016,mercato_lib,0.693
+IT-36,Friuli-Venezia Giulia,bt_altri,2016,mercato_lib,0.625
+IT-62,Lazio,bt_altri,2016,mercato_lib,0.707
+IT-42,Liguria,bt_altri,2016,mercato_lib,0.577
+IT-25,Lombardia,bt_altri,2016,mercato_lib,0.686
+IT-57,Marche,bt_altri,2016,mercato_lib,0.691
+IT-67,Molise,bt_altri,2016,mercato_lib,0.701
+IT-21,Piemonte,bt_altri,2016,mercato_lib,0.701
+IT-75,Puglia,bt_altri,2016,mercato_lib,0.712
+IT-88,Sardegna,bt_altri,2016,mercato_lib,0.693
+IT-82,Sicilia,bt_altri,2016,mercato_lib,0.684
+IT-52,Toscana,bt_altri,2016,mercato_lib,0.683
+IT-32,Trentino-Alto Adige,bt_altri,2016,mercato_lib,0.848
+IT-55,Umbria,bt_altri,2016,mercato_lib,0.689
+IT-23,Valle d'Aosta,bt_altri,2016,mercato_lib,0.710
+IT-34,Veneto,bt_altri,2016,mercato_lib,0.695
+IT_65,Abruzzo,bt_altri,2016,salvaguardia,0.397
+IT-77,Basilicata,bt_altri,2016,salvaguardia,0.771
+IT-78,Calabria,bt_altri,2016,salvaguardia,0.250
+IT-72,Campania,bt_altri,2016,salvaguardia,0.337
+IT-45,Emilia-Romagna,bt_altri,2016,salvaguardia,0.242
+IT-36,Friuli-Venezia Giulia,bt_altri,2016,salvaguardia,0.298
+IT-62,Lazio,bt_altri,2016,salvaguardia,0.782
+IT-42,Liguria,bt_altri,2016,salvaguardia,0.723
+IT-25,Lombardia,bt_altri,2016,salvaguardia,0.754
+IT-57,Marche,bt_altri,2016,salvaguardia,0.865
+IT-67,Molise,bt_altri,2016,salvaguardia,0.875
+IT-21,Piemonte,bt_altri,2016,salvaguardia,0.669
+IT-75,Puglia,bt_altri,2016,salvaguardia,0.920
+IT-88,Sardegna,bt_altri,2016,salvaguardia,0.396
+IT-82,Sicilia,bt_altri,2016,salvaguardia,0.168
+IT-52,Toscana,bt_altri,2016,salvaguardia,0.822
+IT-32,Trentino-Alto Adige,bt_altri,2016,salvaguardia,1.250
+IT-55,Umbria,bt_altri,2016,salvaguardia,0.778
+IT-23,Valle d'Aosta,bt_altri,2016,salvaguardia,1.000
+IT-34,Veneto,bt_altri,2016,salvaguardia,0.238
+IT_65,Abruzzo,bt_altri,2017,magg_tutela,0.540
+IT-77,Basilicata,bt_altri,2017,magg_tutela,0.423
+IT-78,Calabria,bt_altri,2017,magg_tutela,0.447
+IT-72,Campania,bt_altri,2017,magg_tutela,0.444
+IT-45,Emilia-Romagna,bt_altri,2017,magg_tutela,0.750
+IT-36,Friuli-Venezia Giulia,bt_altri,2017,magg_tutela,0.710
+IT-62,Lazio,bt_altri,2017,magg_tutela,0.579
+IT-42,Liguria,bt_altri,2017,magg_tutela,0.477
+IT-25,Lombardia,bt_altri,2017,magg_tutela,0.619
+IT-57,Marche,bt_altri,2017,magg_tutela,0.649
+IT-67,Molise,bt_altri,2017,magg_tutela,0.598
+IT-21,Piemonte,bt_altri,2017,magg_tutela,0.564
+IT-75,Puglia,bt_altri,2017,magg_tutela,0.524
+IT-88,Sardegna,bt_altri,2017,magg_tutela,0.471
+IT-82,Sicilia,bt_altri,2017,magg_tutela,0.451
+IT-52,Toscana,bt_altri,2017,magg_tutela,0.556
+IT-32,Trentino-Alto Adige,bt_altri,2017,magg_tutela,0.908
+IT-55,Umbria,bt_altri,2017,magg_tutela,0.557
+IT-23,Valle d'Aosta,bt_altri,2017,magg_tutela,0.796
+IT-34,Veneto,bt_altri,2017,magg_tutela,0.628
+IT_65,Abruzzo,bt_altri,2017,mercato_lib,0.685
+IT-77,Basilicata,bt_altri,2017,mercato_lib,0.766
+IT-78,Calabria,bt_altri,2017,mercato_lib,0.726
+IT-72,Campania,bt_altri,2017,mercato_lib,0.652
+IT-45,Emilia-Romagna,bt_altri,2017,mercato_lib,0.707
+IT-36,Friuli-Venezia Giulia,bt_altri,2017,mercato_lib,0.594
+IT-62,Lazio,bt_altri,2017,mercato_lib,0.682
+IT-42,Liguria,bt_altri,2017,mercato_lib,0.633
+IT-25,Lombardia,bt_altri,2017,mercato_lib,0.714
+IT-57,Marche,bt_altri,2017,mercato_lib,0.705
+IT-67,Molise,bt_altri,2017,mercato_lib,0.690
+IT-21,Piemonte,bt_altri,2017,mercato_lib,0.628
+IT-75,Puglia,bt_altri,2017,mercato_lib,0.744
+IT-88,Sardegna,bt_altri,2017,mercato_lib,0.736
+IT-82,Sicilia,bt_altri,2017,mercato_lib,0.729
+IT-52,Toscana,bt_altri,2017,mercato_lib,0.733
+IT-32,Trentino-Alto Adige,bt_altri,2017,mercato_lib,0.800
+IT-55,Umbria,bt_altri,2017,mercato_lib,0.687
+IT-23,Valle d'Aosta,bt_altri,2017,mercato_lib,0.752
+IT-34,Veneto,bt_altri,2017,mercato_lib,0.694
+IT_65,Abruzzo,bt_altri,2017,salvaguardia,0.558
+IT-77,Basilicata,bt_altri,2017,salvaguardia,0.294
+IT-78,Calabria,bt_altri,2017,salvaguardia,0.602
+IT-72,Campania,bt_altri,2017,salvaguardia,0.537
+IT-45,Emilia-Romagna,bt_altri,2017,salvaguardia,0.675
+IT-36,Friuli-Venezia Giulia,bt_altri,2017,salvaguardia,0.558
+IT-62,Lazio,bt_altri,2017,salvaguardia,0.276
+IT-42,Liguria,bt_altri,2017,salvaguardia,0.133
+IT-25,Lombardia,bt_altri,2017,salvaguardia,0.237
+IT-57,Marche,bt_altri,2017,salvaguardia,
+IT-67,Molise,bt_altri,2017,salvaguardia,0.077
+IT-21,Piemonte,bt_altri,2017,salvaguardia,0.204
+IT-75,Puglia,bt_altri,2017,salvaguardia,0.268
+IT-88,Sardegna,bt_altri,2017,salvaguardia,0.731
+IT-82,Sicilia,bt_altri,2017,salvaguardia,0.612
+IT-52,Toscana,bt_altri,2017,salvaguardia,
+IT-32,Trentino-Alto Adige,bt_altri,2017,salvaguardia,
+IT-55,Umbria,bt_altri,2017,salvaguardia,
+IT-23,Valle d'Aosta,bt_altri,2017,salvaguardia,
+IT-34,Veneto,bt_altri,2017,salvaguardia,0.619
