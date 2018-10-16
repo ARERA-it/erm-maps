@@ -53,8 +53,6 @@ function buildSelectorL1(h=Arera.hash, currSelL1=Object.keys(h)[0]) {
 }
 
 function buildSelectorL2(h, currSelL2=Object.keys(h)[0]) {
-  console.log(h);
-  
   $('#mercato').empty();
   for (var k in h) {
     $('#mercato').append("<option value="+k+">"+h[k].text+"</option>");
@@ -64,7 +62,6 @@ function buildSelectorL2(h, currSelL2=Object.keys(h)[0]) {
 }
 
 function buildSelectorL3(arr, currSelL3=arr[0]) {
-  console.log(arr);
   $('#anno').empty();
   for (var idx in arr) {
     $('#anno').append("<option value="+arr[idx]+">"+arr[idx]+"</option>");
@@ -114,26 +111,22 @@ function readDataStruct(array) {
       hash[key1].chld[key2].chld.push(el.anno);
     }
   });
-  console.log(hash);
   Arera.hash = hash;
   buildSelectors(hash);
 }
 
 
 function loadData() {
-  AmCharts.loadFile( "dati_esempio.csv", {}, function( response ) {
+  AmCharts.loadFile( "https://raw.githubusercontent.com/ARERA-it/erm-maps/master/dati/versione_1.csv", {}, function( response ) {    
     var data = AmCharts.parseCSV( response, {"delimiter": ",", "useColumnNames": true, "skip": 1});
     Arera.data = data;
-    readDataStruct(data);    
+    
+    readDataStruct(data);
+    drawMap();   
   });
 }
 
-
-Arera = {};
-loadData();
-
-$('document').ready(function() {
-  
+function drawMap() {
   Arera.map = AmCharts.makeChart("map_1",
   {
     "type": "map",
@@ -164,24 +157,7 @@ $('document').ready(function() {
     "minValue": 0,
     "maxValue": 100
   });
-
-
-  $('.map_dropdown').change(function(){
-    var v = readSelectors();
-    var level_changed = $(this).attr('id'); // id del dropdown (<select> tag) che è stato cambiato
-    // 'tip_cliente', 'mercato', 'anno'
-    var value = $(this).val(); // 'mercato_lib'
-    
-    if (level_changed=='tip_cliente') {
-      buildSelectorL2(Arera.hash[value].chld);
-      
-    } else if (level_changed=='mercato') {
-      var tip_cliente = $('#tip_cliente').val();
-      buildSelectorL3(Arera.hash[tip_cliente].chld[value].chld);
-    }
-    redrawMap(v);
-  })
-})
+}
 
 function percents(float) {
   if (float == null) {
@@ -206,6 +182,33 @@ function readData(selectors=readSelectors()) {
   var result = $.map(filteredRows, function(row) {
     return { id: row.id, value: percents(parseFloat(row.valore)) } // 
   })
-  console.log(result);
   return result;  
 }
+
+
+
+
+
+
+Arera = {};
+loadData();
+
+
+$('document').ready(function() {
+    $('.map_dropdown').change(function(){
+    var v = readSelectors();
+    var level_changed = $(this).attr('id'); // id del dropdown (<select> tag) che è stato cambiato
+    // 'tip_cliente', 'mercato', 'anno'
+    var value = $(this).val(); // 'mercato_lib'
+    
+    if (level_changed=='tip_cliente') {
+      buildSelectorL2(Arera.hash[value].chld);
+      
+    } else if (level_changed=='mercato') {
+      var tip_cliente = $('#tip_cliente').val();
+      buildSelectorL3(Arera.hash[tip_cliente].chld[value].chld);
+    }
+    redrawMap(v);
+  })
+})
+
