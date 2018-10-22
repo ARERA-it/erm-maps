@@ -115,6 +115,13 @@ function readDataStruct(array) {
   buildSelectors(hash);
 }
 
+function isNumber(obj) {
+  return obj!== undefined && typeof(obj) === 'number' && !isNaN(obj);
+}
+
+// vvv = Arera.data.map(function(v){return parseFloat(v.valore)}).filter(function(v) { return isNumber(v); });
+// Math.max(...vvv)
+// Math.min(...vvv)
 
 function loadData() {
   AmCharts.loadFile( "https://raw.githubusercontent.com/ARERA-it/erm-maps/master/dati/versione_1.csv", {}, function( response ) {    
@@ -180,7 +187,7 @@ function readData(selectors=readSelectors()) {
     row.anno==selectors.anno;
   })
   var result = $.map(filteredRows, function(row) {
-    return { id: row.id, value: percents(parseFloat(row.valore)) } // 
+    return { id: row.id, value: percents(parseFloat(row.valore)) }; // 
   })
   return result;  
 }

@@ -1,3 +1,7 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
 
 select.map_dropdown {
     margin-right: 25px;
@@ -5,4 +9,20 @@ select.map_dropdown {
 
 div.map-selectors {
     margin-bottom: 20px;
+}
+
+
+div.bground {
+    width: 100%;
+    height: 800px;
+    background-image: url('../images/arera_2x.png'); 
+    opacity: 0.2;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-color: transparent; 
+}
+div#map_1 {
+    background-color: white; 
+    width: 100%;
+    height: 800px;
 }
